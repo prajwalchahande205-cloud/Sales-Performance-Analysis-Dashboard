@@ -38,9 +38,9 @@ This project focuses on analyzing sales data to identify high-performing regions
 
 ## Files Included
 
-Super Store Sales Dashboard1 Updated.pbix
-Sales Performance Analysis.csv
-Screenshot 2026-06-24 105823.png
+* Super Store Sales Dashboard1 Updated.pbix (Download Raw file and Open it.)
+* Sales Performance Analysis.csv (Download Raw file and Open it.)
+* Screenshot 2026-06-24 105823.png
 
 ## Conclusion
 
